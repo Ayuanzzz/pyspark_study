@@ -15,3 +15,6 @@ output_parquet/
 
 # Installers
 *.msi
+
+# Local SQL scripts (do not commit)
+sql/
